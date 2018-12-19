@@ -1,0 +1,28 @@
+{
+    "name": "tomhaoye/aliyun-dysms-sdk",
+    "description": "Aliyun SMS message SDK for PHP",
+    "keywords": [ "aliyun", "SMS", "sdk" ,"dayu"],
+    "type": "library",
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/tomhaoye/aliyun-dysms-sdk",
+    "authors": [
+        {
+            "name": "tomhaoye",
+            "homepage": "https://github.com/tomhaoye"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Aliyun\\DayuSDK\\": "dysdk/lib/",
+            "Aliyun\\DayuSDK\\Test\\": "dysdk/tests/"
+        }
+    }
+}
