@@ -5,7 +5,6 @@
 <a href="#"><img src="https://img.shields.io/github/languages/code-size/tomhaoye/aliyun-dysms-sdk" alt="size"></a>
 <a href="#"><img src="https://img.shields.io/github/last-commit/tomhaoye/aliyun-dysms-sdk" alt="last"></a>
 <a href="#"><img src="https://img.shields.io/packagist/dt/tomhaoye/aliyun-dysms-sdk" alt="download"></a>
-<a href="#"><img src="https://img.shields.io/github/license/tomhaoye/aliyun-dysms-sdk" alt="license"></a>
 </p>
 
 ## composer安装
